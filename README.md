@@ -52,11 +52,6 @@ The system amplifies low-level electromagnetic noise using two op-amps and feeds
 
 ---
 
-## 📸 Preview
-
-*(Include image previews from your `/Photo` folder here)*
-
----
 
 ## 📜 License
 
