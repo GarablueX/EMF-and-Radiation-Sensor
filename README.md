@@ -5,6 +5,22 @@
 > Built using MikroC PRO for PIC + Proteus + Custom PCB Design
 
 ---
+---
+
+---
+
+## 🏆 Sponsorship Acknowledgement  
+
+This project was proudly **sponsored by [PCBWay](https://www.pcbway.com/)**.  
+PCBWay generously fabricated the PCBs for this prototype, which helped me bring the EMF & Radiation Sensor to life.  
+
+I’m grateful for PCBWay’s support of makers, students, and open-source hardware projects.  
+
+📢 I also shared this sponsorship and project on LinkedIn: [View the LinkedIn Post](https://www.linkedin.com/posts/saif-abdessayed_with-the-support-of-pcbway-my-project-radiation-activity-7363906849378553856-8jDA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxKzyYB6YN8GgKtdPOITk9dwXjxUNPGHdg)  
+
+---
+
+
 
 ## 🚀 Features
 
