@@ -13,7 +13,25 @@
 This project was proudly **sponsored by [PCBWay](https://www.pcbway.com/)**.  
 PCBWay generously fabricated the PCBs for this prototype, which helped me bring the EMF & Radiation Sensor to life.  
 
+## Board Quality
+
+The boards really stand out for their quality:
+
+- Precise silkscreen and solder mask  
+- Sharp, well-defined copper traces  
+- Smooth surface finish  
+- Professional alignment and craftsmanship  
+
+Seeing the finished boards in hand is such a strong reminder of how design work can be transformed into real, professional-grade hardware.
+
+
 I’m grateful for PCBWay’s support of makers, students, and open-source hardware projects.  
+![Board Front](pcb_photos(PCBWay)/IMG_E5059.JPG)
+![Board Back](pcb_photos(PCBWay)/IMG_E5062.JPG)
+![Board Back](pcb_photos(PCBWay)/IMG_E5058.JPG)
+
+
+
 
 📢 I also shared this sponsorship and project on LinkedIn: [View the LinkedIn Post](https://www.linkedin.com/posts/saif-abdessayed_with-the-support-of-pcbway-my-project-radiation-activity-7363906849378553856-8jDA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxKzyYB6YN8GgKtdPOITk9dwXjxUNPGHdg)  
 
